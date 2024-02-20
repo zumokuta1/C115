@@ -1,0 +1,69 @@
+body {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: #fafafa;
+}
+
+h1 {
+    font-size: 5rem;
+    background-color: #ffe4c4;
+    border-radius: 1rem;
+    padding: 1rem;
+    box-shadow: 0px 20px 10px #0000006c;
+}
+
+h3 {
+    font-size: 3rem;
+}
+
+
+img {
+    background-color: #ffe4c4;
+    border-radius: 100%;
+    margin: 1rem;
+}
+
+#alien1 {
+    border: 5px solid #b6dd51;
+    box-shadow: 0px 20px 10px #0000007e;
+}
+
+#alien2 {
+    border: 5px solid #4796c9;
+    box-shadow: 0px 20px 10px #0000007e;
+}
+
+#alien3 {
+    border: 5px solid #e16d76;
+    box-shadow: 0px 20px 10px #0000007e;
+}
+
+#alien4 {
+    border: 5px solid #97c900;
+    box-shadow: 0px 20px 10px #0000007e;
+}
+
+#border {
+    width: 40%;
+    height: 0.5rem;
+    background-color: #ffe4c4;
+    border-radius: 2rem;
+    border: 1px solid #e6cdb0;
+}
+
+.btn {
+    border-radius: 2rem;
+    padding: 1rem;
+    width: 12%;
+    font-size: 4rem;
+    border: 0.4rem solid #409240;
+    box-shadow: 0px 8px 10px #00000071;
+}
+
+.footer {
+    background-color: #ffe4c4;
+    border: 1px solid #e6cdb0;
+    font-size: 1.5rem;
+    width: 1.5rem;
+}
